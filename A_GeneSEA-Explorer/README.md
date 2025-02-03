@@ -15,31 +15,36 @@ More info on the usage of the application and some examples are detailed in the 
 
 ## Aplication Preview
 ### Home Page
-
-<h1 align="center">
-  <br>
-  <a href="https://github.com/MargaridaGoncalves/Random-Projects/blob/main/A_GeneSEA-Explorer/Videos/Home%20Page.mp4" target="_blank">
-    <img src="https://github.com/MargaridaGoncalves/Random-Projects/blob/main/A_GeneSEA-Explorer/Videos/Images/videoHomePage.png" width="800">
-  </a>
-  <br>
-</h1>
-
+<img width="960" alt="videoHomePage" src="https://github.com/user-attachments/assets/3c729d88-e875-4e8e-8f94-914df8a7d9b6" />
 
 ### Data Input 
 
+https://github.com/user-attachments/assets/a061d478-912f-4f02-a957-8634d8802f4c
+
 ### Volcano Plots
+
+https://github.com/user-attachments/assets/70fe11e6-c8a2-435e-be03-42e6bba1a3ee
+
 
 ### Differential Gene Expression Analysis
 
+
+https://github.com/user-attachments/assets/16a7872a-5f61-474d-a19b-5e04078b74be
+
 ### SEA
+
+https://github.com/user-attachments/assets/0e008172-dea5-4bd5-bb57-dcb3e02d2989
+
+https://github.com/user-attachments/assets/0e2e618f-68b9-4a1c-9545-347112b3a8e6
+
 
 ### Functional Enrichment Analysis
 
-
+https://github.com/user-attachments/assets/bf66f900-d6f3-4bab-a1f4-b50a0f8a0c35
 
 ### Application Authorization
 > [!IMPORTANT]  
-> If you are interested in using GeneSEA Explorer please contact :) 
+> If you are interested in using GeneSEA Explorer please contact me :) 
 
 ## Team 
 - Ana M. Gonçalves [ORCiD](https://orcid.org/0009-0001-0800-0019)
