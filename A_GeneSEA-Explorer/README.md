@@ -16,6 +16,13 @@ More info on the usage of the application and some examples are detailed in the 
 ## Aplication Preview
 ### Home Page
 
+<h1 align="center">
+  <br>
+  <a href="https://github.com/MargaridaGoncalves/Random-Projects/blob/main/A_GeneSEA-Explorer/Videos/Home%20Page.mp4" target="_blank">
+    <img src="https://github.com/MargaridaGoncalves/Random-Projects/blob/main/A_GeneSEA-Explorer/Videos/Images/videoHomePage.png" width="800">
+  </a>
+  <br>
+</h1>
 
 
 ### Data Input 
