@@ -51,7 +51,7 @@ expression.matrix1
 #PART 6: Save the new data frames in  readr format
 # Here the dataframe is designed as counts.table
 write.table(counts.table, file='C:/Users/Acer/OneDrive/Dataset 3/count_table.txt', sep = "\t",col.names = NA)
-write.table(counts.table, count_table.txt', sep = "\t",col.names = NA) # if i added the set path code (Part 1)
+write.table(counts.table, 'count_table.txt', sep = "\t",col.names = NA) # if i added the set path code (Part 1)
 
 #PART 7: Save as Rdata file
 
