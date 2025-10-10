@@ -81,6 +81,11 @@ p <- ggplot(...)
 
 dev.off()
 
+# or with ggsave
+
+p <- ggplot(...)
+ggsave('plot.png', p, bg='transparent')
+
 # PART 11:
 ## Change a specific number in the vector
 
