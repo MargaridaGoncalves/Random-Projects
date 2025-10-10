@@ -86,6 +86,13 @@ dev.off()
 p <- ggplot(...)
 ggsave('plot.png', p, bg='transparent')
 
+# or with the CAIRO Package
+library(Cairo)
+
+CairoPNG("symptom_plot_cairo.png", width = 2000, height = 1200, dpi = 300)
+print(last_plot())
+dev.off()
+
 # PART 11:
 ## Change a specific number in the vector
 
